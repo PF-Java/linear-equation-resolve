@@ -1,7 +1,7 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class LinearEquationReslover {
+public class LinearEquationResolver {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double a, b, x;
